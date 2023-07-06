@@ -1,0 +1,10 @@
+{
+  "notes": [
+    {
+      "title": "Thu hồi đăng ký Bus",
+      "content": "Hệ thống check-in Bus ghi nhận anh/chị đăng ký đi Bus nhưng không thực hiện check-in Bus hoặc có số ngày check-in Bus trên MyFPT (<11 ngày/tháng).",
+      "created_at": "6/7/2023",
+      "id": 1
+    }
+  ]
+}
